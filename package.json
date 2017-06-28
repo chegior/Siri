@@ -1,0 +1,22 @@
+{
+  "name": "siri",
+  "version": "1.0.0",
+  "description": "siri project for dev Mountain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chegior/Siri.git"
+  },
+  "author": "Chedro Cardenas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chegior/Siri/issues"
+  },
+  "homepage": "https://github.com/chegior/Siri#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
